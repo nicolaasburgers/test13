@@ -1,0 +1,1 @@
+Description of public Hops definition one

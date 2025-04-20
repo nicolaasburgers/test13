@@ -1,0 +1,11 @@
+Public Hops Definition One,1
+False,False
+nicolaasburgers
+C:
+Public Hops Definition One
+A:
+joe.bloggs@thornystems.com
+P:
+Grasshopper,8.19.25105.15001
+T:
+Example
