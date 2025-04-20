@@ -1,1 +1,1 @@
-Test of a public cluster one
+Updated description for public cluster one
